@@ -1,1 +1,6 @@
-_disableContribution
+{
+	"build": 
+	{
+		"_disableContribution": "true"
+	}
+}
