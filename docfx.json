@@ -1,6 +1,8 @@
 {
 	"build": 
 	{
-		"_disableContribution": "true"
+		"globalMetadata": { 
+			"_disableContribution": "true"
+		}
 	}
 }
