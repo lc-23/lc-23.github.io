@@ -1,8 +1,11 @@
 {
 	"build": 
 	{
-		"reservedMetadata": { 
+		"globalMetadata": { 
 			"_disableContribution": "true"
 		}
+	}
+	"globalMetadata": { 
+		"_disableContribution": "true"
 	}
 }
