@@ -1,3 +1,24 @@
 {
-	"_disableContribution": "true"
+  "metadata": [],
+  "build": {
+    "content": [
+      {
+        "files": [
+          "articles/**.md",
+          "*.md"
+        ],
+        "exclude": [
+          "obj/**",
+          "docs/**"
+        ]
+      }
+    ],
+    "globalMetadata": {
+      "_appTitle": "DocFX website",
+      "_appFooter": "&#0169; 2016 Graviton",
+      "_enableSearch": "true",
+      "_disableContribution": "false",
+      "_disableAffix":  "false"
+    }
+  }
 }
