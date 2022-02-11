@@ -1,11 +1,3 @@
 {
-	"build": 
-	{
-		"globalMetadata": { 
-			"_disableContribution": "true"
-		}
-	}
-	"globalMetadata": { 
-		"_disableContribution": "true"
-	}
+	"_disableContribution": "true"
 }
